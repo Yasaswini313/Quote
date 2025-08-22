@@ -25,7 +25,7 @@ A simple RESTful API that returns a random inspirational quote, with IP-based ra
 ### Get a random quote
 
 ```
-curl http://localhost:3000/api/quote
+curl http://localhost:3001/api/quote
 ```
 
 **Example response:**
@@ -55,3 +55,4 @@ curl http://localhost:3000/api/quote
 ## Backend Endpoint
 
 - `GET /api/quote`
+
